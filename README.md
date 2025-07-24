@@ -1,12 +1,23 @@
-# React + Vite
+# 🚀 Machine Coding Problems
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A collection of React-based machine coding round problems and frontend mini-projects.  
+Each project is built using **React + Vite**, follows best practices, and is fully runnable independently.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Projects Included
 
-## Expanding the ESLint configuration
+| Project                   | Description                                                |
+|---------------------------|------------------------------------------------------------|
+| 🔢 [Pagination](./Pagination)             | Pagination UI with 10 items per page and navigation controls |
+| 🔍 [AutoComplete Search Bar](./AutoCompleteSearchBar) | Realtime API-based autocomplete using React & hooks         |
+| ⏳ Progress Bar (coming soon)  | Visual progress component with percentage fill             |
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 How to Run Any Project Locally
+
+```bash
+cd <ProjectName>
+npm install
+npm run dev
