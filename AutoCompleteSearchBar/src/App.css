@@ -1,0 +1,29 @@
+.search-bar{
+   width: 800px;
+   padding: 10px;
+   margin: 10px;
+   display: flex;
+   border: 1px solid black;
+}
+.input-bar{
+   width:800px;
+max-height:500px;
+padding:10px;
+margin:auto;
+border:1px solid black;
+text-align: left;
+overflow-y: scroll;
+
+}
+
+.results{
+   display: block;
+   padding: 4px;
+}
+.results:hover{
+   background-color: grey;
+   cursor:pointer;
+}
+.suggestion-item.active {
+   background-color: #f0f0f0;
+ }
