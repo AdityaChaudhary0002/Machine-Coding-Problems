@@ -12,6 +12,7 @@ Each project is built using **React + Vite**, follows best practices, and is ful
 | 🔢 [Pagination](./Pagination)             | Pagination UI with 10 items per page and navigation controls |
 | 🔍 [AutoComplete Search Bar](./AutoCompleteSearchBar) | Realtime API-based autocomplete using React & hooks         |
 | ⏳ [Progress Bar](./ProgressBar) | Visual progress component with percentage fill             |
+|🔢 [OTP Input](./Otp-Input) | OTP input component with keyboard navigation, paste support, and validation.   |
 
 ---
 
