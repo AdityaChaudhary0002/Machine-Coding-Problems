@@ -1,0 +1,10 @@
+.otp-input{
+  display:  inline-flex;
+  width: 20px;
+  height: 20px;
+  text-align: center;
+  margin: 10px;
+  padding: 10px;
+  font-size: 20px;
+  
+}
